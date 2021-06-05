@@ -1,0 +1,1 @@
+export const TRAINME_COLOR = '#056af3';
